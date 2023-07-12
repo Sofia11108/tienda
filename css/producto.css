@@ -1,0 +1,51 @@
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+body {
+    background-color: wheat;
+}
+<<<<<<< HEAD
+=======
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+h1 {
+    color: crimson;
+    font-size: 50px;
+}
+>>>>>>> categoria
+.card {
+    /* height: 100px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    /* background-color: blueviolet; */
+    padding: 40px;
+    box-shadow: 0 0 30px 10px;
+
+}
+img {
+    height: 220px;
+    width: 200px;
+    border-radius: 50%;
+    /* overflow: hidden; */
+    /* width: 100px; */
+<<<<<<< HEAD
+=======
+}
+.enlaces {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.enlaces a {
+    text-decoration: none;
+    color: crimson;
+>>>>>>> categoria
+}
