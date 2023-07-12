@@ -5,6 +5,19 @@
 body {
     background-color: wheat;
 }
+<<<<<<< HEAD
+=======
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+h1 {
+    color: crimson;
+    font-size: 50px;
+}
+>>>>>>> categoria
 .card {
     /* height: 100px; */
     display: flex;
@@ -23,4 +36,16 @@ img {
     border-radius: 50%;
     /* overflow: hidden; */
     /* width: 100px; */
+<<<<<<< HEAD
+=======
+}
+.enlaces {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.enlaces a {
+    text-decoration: none;
+    color: crimson;
+>>>>>>> categoria
 }
